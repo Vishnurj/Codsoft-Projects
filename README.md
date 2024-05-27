@@ -1,5 +1,5 @@
 CodSoft Company Internship Projects
-Thank You Note
+
 I would like to express our sincere gratitude to CodSoft Company for providing us with the opportunity to undertake our internship. The experience gained during this period has been invaluable, and we are grateful for the guidance and support provided by the entire team.
 
 Project Introductions
